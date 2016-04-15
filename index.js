@@ -1,4 +1,4 @@
 import XImage from './src/XImage';
 
 export default XImage;
-export Storage from './src/Storage';
+export { Storage } from './src/Storage';
